@@ -1,0 +1,11 @@
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\bin\Debug\netcoreapp2.0\MyFirstCoreProject.deps.json
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\bin\Debug\netcoreapp2.0\MyFirstCoreProject.runtimeconfig.json
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\bin\Debug\netcoreapp2.0\MyFirstCoreProject.runtimeconfig.dev.json
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\bin\Debug\netcoreapp2.0\MyFirstCoreProject.dll
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\bin\Debug\netcoreapp2.0\MyFirstCoreProject.pdb
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\obj\Debug\netcoreapp2.0\MyFirstCoreProject.csprojResolveAssemblyReference.cache
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\obj\Debug\netcoreapp2.0\MyFirstCoreProject.csproj.CoreCompileInputs.cache
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\obj\Debug\netcoreapp2.0\MyFirstCoreProject.AssemblyInfoInputs.cache
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\obj\Debug\netcoreapp2.0\MyFirstCoreProject.AssemblyInfo.cs
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\obj\Debug\netcoreapp2.0\MyFirstCoreProject.dll
+D:\Milap_Projects\AspNetCore\MyFirstCoreProject\MyFirstCoreProject\obj\Debug\netcoreapp2.0\MyFirstCoreProject.pdb
